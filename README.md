@@ -1,6 +1,7 @@
 <div align="center">
   <img height="100px" src="https://github.com/InterstellarNetwork/InterstellarAstro/assets/89202835/54053f92-64aa-4e58-9e1c-04e14f104b65">
   <p>Interstellar + Astro</p>
+  <h2>(NOTE : this is a fork for my vercel app)</h2>
 </div>
 
 ### What is it?
